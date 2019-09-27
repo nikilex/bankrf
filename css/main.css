@@ -1,0 +1,59 @@
+.back{
+	background: url('/img/back.jpg');
+}
+.pad{
+	padding-top: 40px;
+}
+
+#answer-yes{
+	display: none;
+}
+#answer-no{
+	display: none;
+}
+
+.pad h5{
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+.nav{
+background: #8a8a8c;
+color: #fff !important;
+}
+
+A.nav {
+    text-decoration: none; /* Убираем подчеркивание */
+    border-bottom: 1px dashed #fff; /* Добавляем свою линию */ 
+   }
+
+.img{
+	margin: 10px;
+}
+
+.checkbox{
+	margin-bottom: 20px;
+}
+
+.border{
+	border: 1px solid #937cfd87;  text-align:center;
+}
+
+.pad-opros{
+	padding-top: 50px;
+}
+
+.shadow{
+	background: #fff;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.shadow2{
+	background: #fff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0) inset;
+}
+
+.text-color{
+	color: #aa0003 !important;
+}
+
+
